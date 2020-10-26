@@ -1,0 +1,50 @@
+
+h1 {
+    font:strong;
+    text-align: center;
+    background-color: grey;
+    color: green;
+}
+img {
+    width: 20%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  div#content h2 {
+    font:strong;
+    font-size: 40px;
+    text-align: center;
+    background-color: grey;
+    color: darkgreen;
+}
+p {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+.link {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    display: block;
+}
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+    font-size: 40px;
+    color: black;
+}   
+#parent {
+    display: table;
+    width: 100%;
+ }
+#login {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 40px;
+    color: black;
+ }
